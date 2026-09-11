@@ -238,3 +238,6 @@ This repository serves as the official landing page for Hill Climb Racing. The s
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Hill Climb Racing today!**
+
+---
+**Last updated:** 2026-09-11 07:33:09 UTC
